@@ -26,5 +26,5 @@ getmal USER 7 -o USER.json
 
 ### Build
 ```bash
-python setup.py sdist bdist_wheel
+cargo build --release
 ```
