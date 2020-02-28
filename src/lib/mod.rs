@@ -68,8 +68,7 @@ pub fn parse_args() -> User {
 }
 
 
-pub fn get_mal_link(username: String, status: u8) {
+pub fn get_mal_link(username: String, status: u8) -> String {
   let url = format!("https://myanimelist.net/animelist/{}?status={}", username, status);
-  println!("{}", url);
-
+  return url;
 }
