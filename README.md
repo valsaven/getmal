@@ -30,6 +30,7 @@ python setup.py sdist bdist_wheel
 
 -----------------
 
+## ↓↓↓ Currently blocked by MAL: https://myanimelist.net/forum/?topicid=1844975
 ## SaaS (with Go):
 ### Using
 `https://getmal.herokuapp.com/LIST/USERNAME/STATUS`
