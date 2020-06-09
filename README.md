@@ -2,7 +2,7 @@
 Returns the data of a particular anime list and status in JSON.
 
 ### Using
-`https://enigmatic-island-24693.herokuapp.com/LIST/USERNAME/STATUS`
+`https://getmal.herokuapp.com/LIST/USERNAME/STATUS`
 
 ### Lists:
 ```
