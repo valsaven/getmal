@@ -32,7 +32,7 @@ python setup.py sdist bdist_wheel
 
 ## SaaS (with Go):
 ### Using
-`https://enigmatic-island-24693.herokuapp.com/LIST/USERNAME/STATUS`
+`https://getmal.herokuapp.com/LIST/USERNAME/STATUS`
 
 ### Lists:
 ```
