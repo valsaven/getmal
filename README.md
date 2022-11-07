@@ -1,4 +1,6 @@
 # Get MyAnimeList! `(*°▽°*)`
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvalsaven%2Fgetmal.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvalsaven%2Fgetmal?ref=badge_shield)
+
 Returns the data of a particular anime list and status in JSON.
 
 ### Install
@@ -40,3 +42,7 @@ python setup.py sdist bdist_wheel
 anime - for anime list
 manga - for manga list
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvalsaven%2Fgetmal.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvalsaven%2Fgetmal?ref=badge_large)
